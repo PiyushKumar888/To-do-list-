@@ -45,14 +45,7 @@ function createTask(taskObj) {
         icon.classList.toggle("fa-circle-check");
         icon.classList.toggle("fa-regular");
         icon.classList.toggle("fa-solid");
-        // if (icon.classList.contains("fa-circle")) {
-        //     icon.classList.replace("fa-circle", "fa-circle-check");
-        //     icon.classList.replace("fa-regular", "fa-solid");
-        // }
-        // else {
-        //     icon.classList.replace("fa-circle-check", "fa-circle");
-        //     icon.classList.replace("fa-solid", "fa-regular");
-        // }
+        
 
 
 
